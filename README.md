@@ -7,4 +7,4 @@ Addon for filemanager nautlus to convert PDFs to PNG.
 - `pip install pdf2image`
 
 ## Install ##
-Copy python file to `$HOME/.local/share/python-nautilus/extensions/`. You probably need to create the directory. 
+Copy python file to `$HOME/.local/share/python-nautilus/extensions/`. You probably need to create the directory. Restart nautilus
